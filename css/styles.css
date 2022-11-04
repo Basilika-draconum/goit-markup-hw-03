@@ -142,7 +142,9 @@ padding: 200px;
 }
 
 /* Advantages */
-
+.section.advantages{
+    padding-bottom: 0;
+}
 .title{
     color: var(--primary-text-color);
     font-weight: 700;
@@ -173,10 +175,6 @@ padding: 200px;
 }
 
 /* Doing */
-
-.doing-block{
-padding-bottom: 94px;
-}
 .doing-list{
 display: flex;
 margin-top: 50px;
